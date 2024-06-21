@@ -1,4 +1,4 @@
-# Multi-Class Image Classification
+# Multi-Class Image Classification (ReadMe Work-in-Progress)
 
 ## Overview
 Multi-Class Image Classification is a deep learning project aimed at providing a flexible framework for training, evaluating, and deploying models for image classification tasks. The framework supports both binary and multi-class classification tasks and includes utilities for data augmentation, training, validation, and evaluation.
@@ -12,3 +12,5 @@ Easy Configuration: Centralized configuration file for easy adjustments.
 
 ## Setup
 Dependencies listed in requirements.txt
+
+## ...
